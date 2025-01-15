@@ -1,4 +1,4 @@
-# Wi-Fi Network Security Scanner
+# Wi-Fi Network Security Scanner  !!!(KALI LINUX USAGE ONLY)!!!
 
 This Python script is designed to scan nearby Wi-Fi networks and evaluate their security level. It uses Kali Linux tools (`airmon-ng`, `airodump-ng`, `aircrack-ng`) to scan the networks and report if they have weak or no security.
 
